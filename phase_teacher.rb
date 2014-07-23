@@ -5,11 +5,7 @@ class PhaseTeacher
   
   # Managing student access to teaching staff during core hours
    
-  # Proposing and running curriculum experiments for the phase
-  
   # Preparing/delivering daily lecture material
-  
-  # Managing support for students on the floor
   
   # Assessing and communicating student progress throughout the phase and at the end of a phase. Communicating to students and Cohort Lead.
   
