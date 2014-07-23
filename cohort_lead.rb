@@ -1,6 +1,4 @@
 class CohortLead
-  # Stewarding an individual cohort throughout the three phases
-
   # Nurturing cohort culture
 
   # Facilitating discussions between students and staff
