@@ -1,3 +1,3 @@
-class TeachingAssistant
+class AssistantTeacher
   # supporting teacher
 end
