@@ -1,4 +1,4 @@
-class PhaseTeacher
+class Teacher
   # Implementing daily continuity
   
   # Designing and Managing processes for effective student learning
