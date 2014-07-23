@@ -1,4 +1,4 @@
-class FloatingTeacher
+class FloatingTeacher < Teacher
   # Facilitating cross cohort collaboration
 
   # Fulfilling Teacher role in all three phases or in a dedicated phase
