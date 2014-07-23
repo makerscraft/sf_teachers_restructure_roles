@@ -7,7 +7,7 @@ class PhaseTeacher
    
   # Proposing and running curriculum experiments for the phase
   
-  # Leading Lectures
+  # Preparing/delivering daily lecture material
   
   # Managing support for students on the floor
   
