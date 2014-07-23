@@ -1,11 +1,9 @@
 class FloatingTeacher
-  # Backing up cohort SF - Cohort Lead Teacher
-
   # Facilitating cross cohort collaboration
 
-  # Reviewing code
+  # Fulfilling Teacher role in all three phases or in a dedicated phase
 
-  # Paring with students
+  # Backing up Phase Teachers as requested / scheduled
 
-  # Consulting with student groups
+  # Reaching out to Phase Teachers to create a full schedule
 end
