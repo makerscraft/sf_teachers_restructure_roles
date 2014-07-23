@@ -1,4 +1,6 @@
 class CohortLead
+  # Attending Engineering Empathy Sessions with Cohort
+
   # Nurturing cohort culture
 
   # Facilitating discussions between students and staff
